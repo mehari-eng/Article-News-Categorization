@@ -1,1 +1,14 @@
-Dataset will be available soon
+Tigrinya News Article Dataset contains containing 2396 articles categorized into seven classes: agriculture, business, health, politics, religion, sport,and technology
+
+
+If you make use of this dataset, please cite:
+
+
+@inproceedings{yohannes2022scheme,
+  title={A Scheme for News Article Classification in a Low-Resource Language},
+  author={Yohannes, Hailemariam Mehari and Amagasa, Toshiyuki},
+  booktitle={Information Integration and Web Intelligence: 24th International Conference, iiWAS 2022, Virtual Event, November 28--30, 2022, Proceedings},
+  pages={519--530},
+  year={2022},
+  organization={Springer}
+}
